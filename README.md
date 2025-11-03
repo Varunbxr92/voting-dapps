@@ -90,5 +90,7 @@ npm start
 You can see your UI at : http://127.0.0.1:3000, you can add the Candidate either from UI or from curl request
 ---
 
+Video Demo Link:
 
+https://drive.google.com/drive/folders/1RFgBrrAWH9ovMN8_WhUzDxyNQihTdlQe?usp=sharing
 
